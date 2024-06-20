@@ -1,5 +1,6 @@
 .orange{
     background-color: rgb(243, 215, 164);
+    
 }
 
 .antiquewhite{
@@ -7,8 +8,10 @@
 }
 *{
     background-color: rgb(230, 224, 217);
+    margin-left:10px;
+    margin-right: 10px;
 }
 
 body{
-    margin-left:10px;
+  
 }
