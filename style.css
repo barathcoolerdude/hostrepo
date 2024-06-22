@@ -12,6 +12,6 @@
     margin-right: 10px;
 }
 
-#img{
-    border-style:dotted;
+.border{
+    border-style:solid;
 }
