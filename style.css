@@ -14,4 +14,10 @@
 
 .border{
     border-style:solid;
+    margin: 0px 0px 20px 0px;
+}
+
+.double{
+    margin:20px 0px 20px 0px;
+    border-style: double;
 }
