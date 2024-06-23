@@ -1,27 +1,30 @@
+
+
 .orange{
     background-color: rgb(243, 215, 164);
-    
+    outline-style:dashed
 }
 
 .antiquewhite{
-    background-color:rgb(212, 172, 121)
+    background-color:rgb(212, 172, 121);
+    outline-style:solid;
 }
+
 *{
-    background-color: rgb(230, 224, 217);
+    background-color:rgb(230, 224, 217);
     margin-left:10px;
     margin-right: 10px;
 }
 
 .border{
     border-style:solid;
-    margin: 0px 0px 20px 0px;
+    margin: 10px 10px 10px 10px;
     border-color: rgb(115, 69, 6);
+    border-radius: 10px;
 }
 
 .double{
     margin:20px 0px 20px 0px;
     border-style: double;
 }
-.social{
-    border-radius: 20px;
-}
+
