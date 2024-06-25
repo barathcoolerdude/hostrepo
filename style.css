@@ -10,6 +10,7 @@
     outline-style:solid;
 }
 
+
 *{
     background-color:rgb(230, 224, 217);
     margin-left:10px;
@@ -31,6 +32,9 @@
 .link{
     text-decoration:none ;
     font-size: 20px;
+}
+.link:hover{
+    color:rgb(173, 173, 242);
 }
 
 .about{
