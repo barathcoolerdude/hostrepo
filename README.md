@@ -1,5 +1,5 @@
 # hostrepo
-https://barathcoolerdude.github.io/hostrepo/ 
+https://barathcoolerdude.github.io/hostrepo/
 
 In famous words of christron fence "change should not be made until current state of affairs is understooded"
 
